@@ -1,4 +1,4 @@
-# III-IT-A-2023
+https://github.com/tejaswinikundeti/applied-cryptography-and-OE.git# III-IT-A-2023
 
 ## Instructions
 - Each student must add **one row only**
@@ -14,3 +14,4 @@
    013        yateesh                     respository kink             https://github.com/yateeshkumar003/OE-AND-AC-.git
     192       mohan                     respository kink             https://github.com/mohanluckyyy/-OE-AC.git    
 |   056   |  guru     |  repository link |  https://github.com/guruvendra12345/OE-AC.git|
+|031      |tejaswini  | repository link   |https://github.com/tejaswinikundeti/applied-cryptography-and-OE.git
